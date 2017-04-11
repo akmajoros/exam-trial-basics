@@ -19,9 +19,4 @@ public class Box {
     System.out.println((box.sideA*box.sideB)*2 + (box.sideC*box.sideB)*2 + (box.sideA*box.sideC)*2);
   }
 
-  public static void main(String[] args) {
-    Box test = new Box (3, 3, 3);
-    test.getVolume(test);
-    test.getSurface(test);
-  }
 }
