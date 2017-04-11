@@ -32,4 +32,4 @@ The application is accepted if:
 ## 5. Question time! (~15 mins) [2p]
 
 ### How can you generate a random number? [2p]
-#### Your answer: [add your answer here]
+#### Your answer: [you can generate a random number using Math.random. You can do it like this: (int) Math.random() * 10 which will generate a random number between 0 and 9. If you try this: 50 + (int) Math.random()*50 a random number between 50 and 99 will be generated. you can replace 50 by any given numbers. For example a + Math.random()*b will generate a random number between a and a+b excluding the number which equals a+b.]
